@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/tmp/下载/PySide6-Fluent-Widgets-plguin/plugins/basic_input_plugin.py", line 6, in <module>
+    from qfluentwidgets import (PrimaryPushButton, SplitPushButton, DropDownPushButton,
+ModuleNotFoundError: No module named 'qfluentwidgets'
